@@ -19,6 +19,15 @@ header{
     min-width:500px;
     float:left;
 }
+.box{   
+  background-color:red;
+    color:black;
+    width:240px;
+    float:left;
+  
+}
+
+
 
 #main1{
   background-color:green;
