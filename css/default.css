@@ -7,10 +7,15 @@
 
 body{
   background-color:gray;
+  margin: 48px 0 0 0;
 }
 
 header{
   background-color:orange;
+  position:fixed;
+  left:0;
+  top:0;
+  width:100%;
 }
 
 #main{
@@ -26,7 +31,7 @@ header{
     height:80px;
     margin:5px;
     float:left;
-  
+  overflow:hidden;
 }
 
 
