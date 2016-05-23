@@ -15,14 +15,18 @@ header{
 
 #main1{
   background-color:green;
+  width:500px;
 }
 
 #main2{
   background-color:yellow;
+width:500px;
+  
 }
 
 aside{
   background-color:blue;
+  width:500;
 }
 footer{
   background-color:purple;
